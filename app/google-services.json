@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037263724186",
+    "project_id": "noti-nsnb",
+    "storage_bucket": "noti-nsnb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037263724186:android:99864ebc334230870fc923",
+        "android_client_info": {
+          "package_name": "com.example.notinsnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvytXI_Uv68ngCmIecjspazSSP1NmecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
